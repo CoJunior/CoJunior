@@ -44,7 +44,7 @@ I'm always trying to improve my skills and build useful things.
 - ESP32 projects → sensors, PWM, RTOS  
 - Computer vision experiments with OpenCV  
 
-(I’m still organizing my repositories 😅)
+https://github.com/CoJunior/sistema-educacional
 
 ---
 
