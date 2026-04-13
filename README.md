@@ -1,7 +1,53 @@
-# Hi, I'm Junior Co
+# 👋 Hi, I'm Junior
 
-I am a Computer Engineering student at UFSC with a strong background in software development, cybersecurity, and AI-driven applications. I have hands-on experience in full stack development, offensive security research, and educational technology projects with social impact.
+I'm a Computer Engineering student at UFSC.
 
-I also have over 7 years of experience teaching English and founded Connect English School, where I have helped students across Brazil improve their communication skills.
+I like working with software development, cybersecurity and also exploring AI. Most of what I learn comes from building things and testing in practice.
 
-I am passionate about building scalable, secure, and impactful solutions while continuously learning and sharing knowledge.
+I have experience with full stack development, some offensive security (CTFs and vulnerability testing), and projects involving embedded systems like ESP32.
+
+Besides tech, I’ve been teaching English for over 7 years and created my own project called Connect English School, where I help people improve their communication.
+
+I'm always trying to improve my skills and build useful things.
+
+---
+
+## 🚀 What I'm currently doing
+- Studying Computer Engineering at UFSC
+- Practicing cybersecurity and CTF challenges
+- Building projects with ESP32 and embedded systems
+- Learning more about AI and automation
+
+---
+
+## 🛠️ Tech I use
+
+**Languages**
+- Python, C, C++, JavaScript
+
+**Web**
+- HTML, CSS, React, Node.js, Django
+
+**Other stuff**
+- Linux, Git, SQL
+
+**Areas I like**
+- Cybersecurity
+- Embedded Systems
+- AI
+
+---
+
+## 📌 Some projects
+
+- Aquilombar → backend project using Django  
+- ESP32 projects → sensors, PWM, RTOS  
+- Computer vision experiments with OpenCV  
+
+(I’m still organizing my repositories 😅)
+
+---
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/junior-có-9ab2a9219
+-  📧 Email: juniorcoco05@gmail.com
