@@ -12,7 +12,7 @@ I'm always trying to improve my skills and build useful things.
 
 ---
 
-## 🚀 What I'm currently doing
+##  What I'm currently doing
 - Studying Computer Engineering at UFSC
 - Practicing cybersecurity and CTF challenges
 - Building projects with ESP32 and embedded systems
@@ -20,7 +20,7 @@ I'm always trying to improve my skills and build useful things.
 
 ---
 
-## 🛠️ Tech I use
+##  Tech I use
 
 **Languages**
 - Python, C, C++, JavaScript
@@ -38,13 +38,13 @@ I'm always trying to improve my skills and build useful things.
 
 ---
 
-## 📌 Some projects
+##  Some projects
 
 - Aquilombar → backend project using Django  
 - ESP32 projects → sensors, PWM, RTOS  
 - Computer vision experiments with OpenCV  
 
-https://github.com/CoJunior/sistema-educacional
+  https://github.com/CoJunior/sistema-educacional
 
 ---
 
